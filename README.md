@@ -3,16 +3,14 @@
 🌍 Masters Student in **Earth System Data Science & Remote Sensing**  
 🎓 University of Leipzig, Germany  
 💻 Python enthusiast & web developer at UFZ  
-🌲 Master’s thesis: Correcting CRNS uncertainties in forests with remote sensing data (provisionally title)
+🌲 Master’s thesis: Quantitative Assessment of Remote Sensing-Based Biomass Corrections for CRNS Soil Moisture Monitoring in German Forests.
 
 ## 🛠️ Tech Toolbox
 
-- Python (my happy place)
+- Python
 - QGIS & Geo-stuff
 - SQL (Postgres), Java, Docker & containers
 - Remote Sensing, Big Data, ML
-- Cat knowledge 🐈 (ask me anything!)
-- Always learning more...
 
 ## 🌱 When I'm not coding...
 
