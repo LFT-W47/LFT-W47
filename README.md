@@ -26,4 +26,6 @@ Check out my sounds on [SoundCloud](https://soundcloud.com/loui-ttt)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-trinkle-a9748726b/)
 
+[![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0009-0003-0434-939X)
+
 ---
