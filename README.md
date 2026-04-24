@@ -1,6 +1,8 @@
 # Hi, I'm Louis (LFT-W47) 👋
 
-🌍 Masters Student in **Earth System Data Science & Remote Sensing**  
+Currenty working as Scientific Assistent and Developer at UFZ for the  [Neptoon python package](https://codebase.helmholtz.cloud/cosmos/neptoon).
+
+🌍 Master Sc. in **Earth System Data Science & Remote Sensing**  
 🎓 University of Leipzig, Germany  
 💻 Python enthusiast & web developer at UFZ  
 🌲 Master’s thesis: Quantitative Assessment of Remote Sensing-Based Biomass Corrections for CRNS Soil Moisture Monitoring in German Forests.
